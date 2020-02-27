@@ -1,7 +1,7 @@
 # Site settings
 title: Yoking's Blog
 SEOTitle: 遇见的博客 | Yoking's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/banner-1.jpg
 email: yoking603245498@gmail.com
 description: "瞎折腾就对了."
 keyword: "yoking, yoking Blog, 遇见的博客, yokingzhao"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/yokingyoking/yokingyoking.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "奥利给干就完事了兄弟们"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
