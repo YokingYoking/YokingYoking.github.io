@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      前端学习目前学习知识的思维框图
+title:      pytorch入门（一）为什么要选择pytorch
 subtitle:    
 date:       2020-03-02
 author:     Yoking
